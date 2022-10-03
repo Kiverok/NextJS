@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react"
 import Head from "next/dist/shared/lib/head"
 import { MainLayout } from "./components/MainLayout"
 
